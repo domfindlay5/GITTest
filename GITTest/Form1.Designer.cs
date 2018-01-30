@@ -59,7 +59,7 @@
             this.btnTest.Name = "btnTest";
             this.btnTest.Size = new System.Drawing.Size(129, 34);
             this.btnTest.TabIndex = 2;
-            this.btnTest.Text = "Branch Test";
+            this.btnTest.Text = "Branch Test 1";
             this.btnTest.UseVisualStyleBackColor = true;
             // 
             // Form1
