@@ -47,9 +47,9 @@
             this.btnTest.Font = new System.Drawing.Font("Calibri", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTest.Location = new System.Drawing.Point(75, 114);
             this.btnTest.Name = "btnTest";
-            this.btnTest.Size = new System.Drawing.Size(129, 34);
+            this.btnTest.Size = new System.Drawing.Size(151, 34);
             this.btnTest.TabIndex = 2;
-            this.btnTest.Text = "Test";
+            this.btnTest.Text = "Branch Test";
             this.btnTest.UseVisualStyleBackColor = true;
             // 
             // Form1
